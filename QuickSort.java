@@ -1,6 +1,6 @@
-import java.util.Arrays;
+// import java.util.Arrays;
 
-class GfG {
+class QuickSort {
 
     // Partition function
     static int partition(int[] arr, int low, int high) {

@@ -1,6 +1,6 @@
 // Java program for Merge Sort
 
-class GfG {
+class MergeSort {
 
     // Merges two subarrays of arr[].
     // First subarray is arr[l..m]
